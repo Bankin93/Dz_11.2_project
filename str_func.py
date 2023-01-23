@@ -1,8 +1,8 @@
-def str_upper(word):
+def str_upper(words):
     """ф-я выводит строку заглавными буквами"""
-    return word.upper()
+    return words.upper()
 
 
-def str_title(word):
+def str_title(words):
     """ф-я выводит строку, где первые буквы заглавные"""
-    return word.title()
+    return words.title()
